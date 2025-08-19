@@ -79,4 +79,4 @@ eda/
 
 Language: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
